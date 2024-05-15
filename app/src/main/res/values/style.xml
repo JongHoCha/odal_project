@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="코치목록">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="카테고리">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="오늘의추천멘토">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+</resources>
